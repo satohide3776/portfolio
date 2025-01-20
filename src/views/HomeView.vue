@@ -2,7 +2,7 @@
   <div class="home">
     <h1>Sato Hideaki's Portfolio</h1>
     <div class="postIt">
-      <img src="/portforio/assets/home.png" alt="">
+      <img src="/images/home.png" alt="">
     </div>
     <div class="leftPostIt">
       <router-link to="/profile"><font-awesome-icon icon="fa-solid fa-laptop-code" />click here!!</router-link>
