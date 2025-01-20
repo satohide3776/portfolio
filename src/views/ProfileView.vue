@@ -5,7 +5,7 @@
       <section class="introduction">
         <div class="introduction_contents">
           <PostIt></PostIt>
-          <div class="introduction_image"><img src="@/assets/face.webp" alt=""></div>
+          <div class="introduction_image"><img src="/portfolio/assets/face.webp" alt=""></div>
         </div>
       </section>
       <section class="skills">
@@ -18,7 +18,7 @@
           <PostItList skillTitle="Other" class="other"></PostItList>
         </ul>
         <div class="profile_image">
-          <img src="@/assets/sky.jpg" alt="">
+          <img src="/portfolio/assets/sky.jpg" alt="">
         </div>
       </section>
     </div>
